@@ -73,3 +73,5 @@
 ![image](https://github.com/user-attachments/assets/3dcde57b-3d8f-486d-b0b3-599cbc9258c6)
 ![image](https://github.com/user-attachments/assets/f9a0a459-5568-4f25-a762-e3977491d179)
 
+## catatan :
+untuk mengakses halaman dashboard admin, register akun terlebih dahulu, lalu masuk ke database user_auth, masuk ke table users dan ubah role menjadi admin.
