@@ -74,6 +74,6 @@
 ![image](https://github.com/user-attachments/assets/f9a0a459-5568-4f25-a762-e3977491d179)
 
 ## catatan:
-    ada dua jenis dashboard pada web ini yaitu user Dashboard dan admin dashboard. 
+ada dua jenis dashboard pada web ini yaitu user Dashboard dan admin dashboard. 
 - untuk mengakses user dashboard, register terlebih dahulu lalu login menggunakan akun yang sudah dibuat. 
 - untuk mengakses halaman dashboard admin, register akun terlebih dahulu, lalu masuk ke database user_auth, masuk ke table users dan ubah role menjadi admin.lalu login menggunakan akun dengan role admin. 
